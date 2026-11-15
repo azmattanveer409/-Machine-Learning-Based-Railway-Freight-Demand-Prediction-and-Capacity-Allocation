@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this educational research prototype, please cite it as below and cite the UK Office of Rail and Road (ORR) as the data source."
+title: "Machine Learning-Based Railway Freight Demand Prediction and Capacity Allocation"
+type: software
+authors:
+  - family-names: "Tanveer"
+    given-names: "Azmat"
+repository-code: "https://github.com/azmattanveer409/-Machine-Learning-Based-Railway-Freight-Demand-Prediction-and-Capacity-Allocation"
+license: MIT
+date-released: 2026-11-15
+keywords:
+  - railway freight
+  - demand forecasting
+  - random forest
+  - xgboost
+  - linear programming
+  - capacity allocation
