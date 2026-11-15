@@ -302,3 +302,14 @@ The complete executed notebook is in [`notebooks/Railway_Freight_Forecasting_Opt
 
 ⭐ If you use or adapt this educational research prototype, please cite the ORR data source and clearly distinguish observed data from illustrative assumptions.
 
+---
+
+## 👤 Author
+
+**Azmat Tanveer**  
+🔗 [GitHub Profile](https://github.com/azmattanveer409)
+
+---
+
+> ⭐ If you found this project useful, please consider giving it a star on GitHub!
+
