@@ -17,9 +17,7 @@
 
 
 
-![Optimization](https://img.shields.io/badge/Optimization-Linear%20Programming%20(PuLP)
-
--purple)
+![Optimization](https://img.shields.io/badge/Optimization-Linear%20Programming%20(PuLP)-purple)
 
 
 ![Data](https://img.shields.io/badge/Data-UK%20ORR%20Freight%20Statistics-lightgrey)
@@ -178,7 +176,7 @@ The notebook creates the lag features `lag_1`, `lag_2`, `lag_3`, `lag_4` and `la
 
 
 
-![Historical Freight Movement](assets/01_historical_freight_movement.png)
+![Historical Freight Movement](assets/01_historical_freight_movement.png) 
 
 
 
